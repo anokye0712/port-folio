@@ -8,7 +8,7 @@
       <h2 class="section-title">About Me</h2>
       <div class="about-content">
         <p class="summary-text">
-          Highly accomplished and results-driven Geomatic Engineering professional with over five years of experience specializing in geospatial image processing, seabed modeling, computer vision, and geospatial AI. Proficient in MATLAB, Python, Julia, ArcGIS, QGIS, and SAGA GIS. Demonstrated research contributions include two published paper and one co-authored paper. Proven ability to excel independently or collaboratively within team environments to achieve project objectives. Holds an MPhil in Marine Survey and Mapping from Shandong University of Science and Technology (June 2023), with research focused on applying deep learning and machine learning for advanced seabed sediment classification.
+          Highly accomplished and results-driven Geomatic Engineering professional with over five years of experience specializing in geospatial image processing, seabed modeling, computer vision, and geospatial AI. Proficient in MATLAB, Python, Julia, ArcGIS, QGIS, and SAGA GIS. Demonstrated research contributions include two published papers and one co-authored paper. Holds an MPhil in Marine Survey and Mapping from Shandong University of Science and Technology (June 2023), with research focused on applying deep learning and machine learning for advanced seabed sediment classification.
         </p>
 
         <div class="general-skills">

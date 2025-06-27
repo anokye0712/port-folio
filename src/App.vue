@@ -30,9 +30,9 @@ watch(isNavOpen, (newValue) => {
 
     <HeroSection></HeroSection>
     <About></About>
-    <SkillsSection></SkillsSection>
-    <ProjectSection></ProjectSection>
     <EducationExperienceSection></EducationExperienceSection>
+    <ProjectSection></ProjectSection>
+    <SkillsSection></SkillsSection>
     <ContactSection></ContactSection>
   </div>
   
