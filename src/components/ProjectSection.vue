@@ -70,7 +70,7 @@ const projects = ref([
     title: "CNN multi-beam seabed sediment classification combined with novel feature optimization method",
     description: "Objective: Develop an improved method for seabed sediment classification using Convolutional Neural Networks (CNNs) by integrating a novel feature optimization technique. Methods: Utilized multibeam echosounder data, applied advanced signal processing for feature extraction, and optimized feature sets before feeding into a CNN model. Key Outcomes: Achieved higher accuracy in sediment type identification compared to traditional methods, demonstrating robustness in diverse marine environments.",
     url: "https://doi.org/10.1007/s11004-023-10079-5",
-    imageUrl: "/images/Gemini_Generated_Image_zbbpk1zbbpk1zbbp.png",
+    imageUrl: "./images/Gemini_Generated_Image_zbbpk1zbbpk1zbbp.png",
     status: "Published",
     type: "Published"
   },
@@ -79,7 +79,7 @@ const projects = ref([
     title: "Characterization of terrain variations of an underwater ancient town in Qiandao Lake",
     description: "Objective: Map and characterize the submerged terrain of an ancient town in Qiandao Lake to understand its geological and historical significance. Methods: Employed high-resolution multibeam bathymetry and GIS analysis to create detailed 3D models and terrain profiles. Key Outcomes: Provided precise topographical data of the underwater structures, aiding in archaeological assessment and preservation efforts.",
     url: "https://doi.org/10.3390/rs12020268",
-    imageUrl: "/images/remotesensing-12-00268-g008-550.jpg",
+    imageUrl: "./images/remotesensing-12-00268-g008-550.jpg",
     status: "Published",
     type: "Published"
   },
@@ -88,7 +88,7 @@ const projects = ref([
     title: "High-resolution seafloor survey and applications.",
     description: "Objective: Contribute to a book on high-resolution seafloor survey techniques and their practical applications. Methods: Involved in the technical issue group, focusing on data acquisition, processing methodologies, and case studies related to detailed seafloor mapping for various marine engineering and environmental purposes. Key Outcomes: Provided expertise on cutting-edge survey technologies and their real-world impact.",
     url: "https://www.tandfonline.com/doi/abs/10.1080/01490419.2023.2185842",
-    imageUrl: "/images/highres.png",
+    imageUrl: "./images/highres.png",
     status: "Published",
     type: "Published"
   },
@@ -98,7 +98,7 @@ const projects = ref([
     description: "Objective: Enhance seabed sediment classification accuracy by developing an optimized multi-classifier fusion framework. Methods: Explored various machine learning algorithms (e.g., SVM, Random Forest, Neural Networks) and designed a fusion strategy that leverages the strengths of multiple models. Key Outcomes: Achieved significant improvements in classification performance, particularly for complex sediment types, through intelligent model combination.",
     url: "https://doi.org/10.1080/17538947.2023.2295988",
     status: "Published", // Changed to Under Review as per prompt
-    imageUrl: "/images/SVM_new.png",
+    imageUrl: "./images/SVM_new.png",
     type: "Under Review"
   },
   {
@@ -106,7 +106,7 @@ const projects = ref([
     title: "Master's Thesis: Improving Seabed Sediment Classification from Multibeam Echosounders using Nonlinear Feature Optimization and Adaptive Model Fusion.",
     description: "Objective: My master's thesis focused on advancing seabed sediment classification from multibeam echosounder data. Methods: Investigated nonlinear feature optimization techniques to enhance the discriminatory power of acoustic features and developed an adaptive model fusion framework to combine the outputs of multiple machine learning classifiers. Key Outcomes: The research significantly improved classification accuracy and robustness, providing a more reliable methodology for marine habitat mapping and geological surveys.",
     url: null, // No specific DOI/URL provided in prompt for thesis
-    imageUrl:'/images/fig4.svg',
+    imageUrl:'./images/fig4.svg',
     status: "Completed",
     type: "Master's Thesis"
   }

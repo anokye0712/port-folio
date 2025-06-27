@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base:'/portfolio-anokye',
+  base:'/portfolio-ano',
   plugins: [
     vue(),
     vueDevTools(),
